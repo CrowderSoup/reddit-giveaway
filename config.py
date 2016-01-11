@@ -5,5 +5,5 @@ I need some configuration, so that the script itself is more reusable.
 """
 
 
-SUBMISSION = '3zg5x2'
-MATCH_TEXT = 'So I suppose I should'
+SUBMISSION = '40idxl'
+MATCH_TEXT = 'I would build'
